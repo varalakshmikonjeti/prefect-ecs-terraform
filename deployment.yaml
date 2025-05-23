@@ -1,0 +1,4 @@
+name: my-deployment
+entrypoint: flow:my_flow
+work_pool: ecs-work-pool
+flow_location: ./flow.py
